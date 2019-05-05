@@ -6,3 +6,6 @@ City in China
 - Weather
 - Local time
 - Mayor
+
+# Plan a trip
+
